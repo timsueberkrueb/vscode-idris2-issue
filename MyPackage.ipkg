@@ -1,0 +1,5 @@
+package reasoniso
+authors = "Tim"
+modules = Example
+depends = contrib
+sourcedir = "src"
